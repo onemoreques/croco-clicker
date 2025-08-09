@@ -1,0 +1,16 @@
+opencv-python
+numpy
+scenedetect
+pillow
+faster-whisper
+torch
+argostranslate
+edge-tts
+piper-tts
+simpleaudio
+flask
+apscheduler
+google-api-python-client
+google-auth-oauthlib
+python-dotenv
+tqdm
